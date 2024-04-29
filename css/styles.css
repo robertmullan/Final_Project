@@ -10969,4 +10969,25 @@ section.resume-section .resume-section-content {
     padding-top: 5rem;
     padding-bottom: 5rem;
   }
+
+}
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+/* Style for the privacy policy link */
+footer a {
+  color: #fff;
+  text-decoration: none;
+}
+
+/* Style for the privacy policy link on hover */
+footer a:hover {
+  text-decoration: underline;
 }
