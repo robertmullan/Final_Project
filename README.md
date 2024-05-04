@@ -6,9 +6,9 @@ In this project, I created a personal website to help showcase my projects, skil
 
 ### Technologies Used
 
-- HTML5
+- HTML
 
-- CSS3
+- CSS
 
 - Bootstrap
 
